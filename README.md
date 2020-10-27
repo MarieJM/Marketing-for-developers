@@ -24,35 +24,14 @@ Please feel free to use this collection to boost your ideas and add your best pi
 
 
 
-* [User Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
-* [Market Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#mag_right-market-research)
-* [Marketing without Budget](https://github.com/LisaDziuba/Marketing-for-Engineers#triumph-marketing-without-budget)
-* [Content Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#-content-marketing)
-  * [Personal blog](https://github.com/LisaDziuba/Marketing-for-Engineers#sunglasses-personal-blog)
-  * [Medium Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#green_book-medium-marketing)
-  * [Promotion of your content](https://github.com/LisaDziuba/Marketing-for-Engineers#mega-promotion-of-your-content)
-* [Influencer Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#influencer-marketing)
-* [Marketing for Product Hunt Launch](https://github.com/LisaDziuba/Marketing-for-Engineers#cat-marketing-for-product-hunt-launch)
-* [Social Media Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#-social-media-marketing)
-  * [Twitter](https://github.com/LisaDziuba/Marketing-for-Engineers#-twitter)
-  * [Facebook](https://github.com/LisaDziuba/Marketing-for-Engineers#facebook)
-  * [Reddit](https://github.com/LisaDziuba/Marketing-for-Engineers#reddit)
-  * [LinkedIn](https://github.com/LisaDziuba/Marketing-for-Engineers#-linkedin)
-  * [Quora](https://github.com/LisaDziuba/Marketing-for-Engineers#quora)
-  * Instagram (coming soon)
-* [Lifecycle Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#love_letter-lifecycle-email-marketing)  
-* [Cold Emails Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-cold-email-marketing)
-* [Marketing Automation](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-marketing-automation)
-
-
 
 ## ![](https://img.shields.io/badge/<>-Market_research-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 Only one factor predict’s a product’s success and it's having product/market fit! Having a clear understanding what your customer needs and what's your copetitive advantage. 
-[Part 4: The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html/)by Marc Andreesen, who originally coined ‘Product/Market Fit’
-[https://andrewchen.co/when-has-a-consumer-startup-hit-productmarket-fit/](When (When has a consumer startup hit product/market fit?)by Andrew Chen. Don’t just find a market — find a great market.
-(https://learn.ryanholiday.net/courses/growth-hacker-marketing/lectures/3908)
-https://www.startup-marketing.com/using-survey-io/ [Net Promoter Score (NPS) is a simple survey, asking customers to rate from 1–10, “How likely are you to recommend _____ to a friend or colleague?” Is your product is good enough to drive sustainable, scalable customer growth? 
+* [Part 4: The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html/)by Marc Andreesen, who originally coined ‘Product/Market Fit’
+* [https://andrewchen.co/when-has-a-consumer-startup-hit-productmarket-fit/](When (When has a consumer startup hit product/market fit?)by Andrew Chen. Don’t just find a market — find a great market.
+* (https://learn.ryanholiday.net/courses/growth-hacker-marketing/lectures/3908)
+* https://www.startup-marketing.com/using-survey-io/ [Net Promoter Score (NPS) is a simple survey, asking customers to rate from 1–10, “How likely are you to recommend _____ to a friend or colleague?” Is your product is good enough to drive sustainable, scalable customer growth? 
 
 ### Buyer persona - Talk to your customers
 To reach your product marketing fit there's no magic but really talking with people. 
