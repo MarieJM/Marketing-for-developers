@@ -1,11 +1,66 @@
 # Marketing-for-app-developers
-A handpicked and time proven marketing articles and tools to grow your product🚀
 
-Over the past 4 years our marketing team at Codemagic CI/CD each one of them has helped us closer where we are today! and the marketing stack we use keep track on our activities. 
+A handpicked and time proven marketing and growth articles and tools to grow your product🚀
 
-## Buyer persona
 
+Often creat ideas needs some extra nudge to lift off. 
+After building a productivity tool for mobile app developers and early stage companies, we understood that our struggles with marketing and growth are were not unique. We listed down some resources that helped us to find product marketing fit, grow the first user base, understand our target group and scale without a massive budget or human resources. 
+
+Over the past 4 years our marketing team at Codemagic CI/CD by Nevercode:
+- launched Codemagic in cooperation with Google on Flutter Live event and Testmagic on Mobile World Congress Barcelona Google stage.
+- Rebranded successfully Nevercode and Codmeagic brand into tool that develpers love according to Google survey
+- Developed and executed a comprehensive content strategy based on extensive SEO analytics. Growing a highly technical blog to 64K blog visitors/ month in 1.5 years.
+
+We listed down articles, videos, spreadsheets, podcasts that have helped us closer where we are today! Furthermore,the marketing stack we use to keep track on our activities and success! Note that the list of the marketing activities goes in order that it made sense for us to start as an early stage company. 
+Please feel free to use this collection to boost your ideas and add your best picks, hacks with other husslers out there✨ Simply submit a Pull Request with respect to our Contribution Guidelines.! 
+
+"It's easier to invent the future than to predict it" - Alan Kay
+
+## 📚 Table of Contents
+
+* [Market research]
+* [Content Marketing]
+  *[SEO]
+
+
+
+* [User Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
+* [Market Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#mag_right-market-research)
+* [Marketing without Budget](https://github.com/LisaDziuba/Marketing-for-Engineers#triumph-marketing-without-budget)
+* [Content Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#-content-marketing)
+  * [Personal blog](https://github.com/LisaDziuba/Marketing-for-Engineers#sunglasses-personal-blog)
+  * [Medium Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#green_book-medium-marketing)
+  * [Promotion of your content](https://github.com/LisaDziuba/Marketing-for-Engineers#mega-promotion-of-your-content)
+* [Influencer Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#influencer-marketing)
+* [Marketing for Product Hunt Launch](https://github.com/LisaDziuba/Marketing-for-Engineers#cat-marketing-for-product-hunt-launch)
+* [Social Media Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#-social-media-marketing)
+  * [Twitter](https://github.com/LisaDziuba/Marketing-for-Engineers#-twitter)
+  * [Facebook](https://github.com/LisaDziuba/Marketing-for-Engineers#facebook)
+  * [Reddit](https://github.com/LisaDziuba/Marketing-for-Engineers#reddit)
+  * [LinkedIn](https://github.com/LisaDziuba/Marketing-for-Engineers#-linkedin)
+  * [Quora](https://github.com/LisaDziuba/Marketing-for-Engineers#quora)
+  * Instagram (coming soon)
+* [Lifecycle Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#love_letter-lifecycle-email-marketing)  
+* [Cold Emails Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-cold-email-marketing)
+* [Marketing Automation](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-marketing-automation)
+
+
+
+## ![](https://img.shields.io/badge/<>-Market_research-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+Only one factor predict’s a product’s success and it's having product/market fit! Having a clear understanding what your customer needs and what's your copetitive advantage. 
+[Part 4: The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html/)by Marc Andreesen, who originally coined ‘Product/Market Fit’
+[https://andrewchen.co/when-has-a-consumer-startup-hit-productmarket-fit/](When (When has a consumer startup hit product/market fit?)by Andrew Chen. Don’t just find a market — find a great market.
+(https://learn.ryanholiday.net/courses/growth-hacker-marketing/lectures/3908)
+https://www.startup-marketing.com/using-survey-io/ [Net Promoter Score (NPS) is a simple survey, asking customers to rate from 1–10, “How likely are you to recommend _____ to a friend or colleague?” Is your product is good enough to drive sustainable, scalable customer growth? 
+
+### Buyer persona - Talk to your customers
+To reach your product marketing fit there's no magic but really talking with people. 
 [What Does a Great Buyer Persona Look Like? Dissecting 3 Real-Life Examples](https://blog.hubspot.com/marketing/buyer-persona-examples)by Lisa Toner
+
+
+[The Mom test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](http://manuelohan.com/wp-content/uploads/2017/05/The-Mom-Test-en.pdf) by Rob Fitzpatric. How to ask the "right" questions to ascertain whether there is real customer pain or not. 
+
 
 ## Launhing your app
 
@@ -26,7 +81,8 @@ We have shared our story here:
 * 		Mention — Keep track of all the conversations buzzing around you.
 * 		GIF Maker — Prepare images you’ll share on Twitter, Facebook and other channels
 
-## Content Marketing
+## ![](https://img.shields.io/badge/<>-Content_Marketing-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 [The Ultimate Guide to No-Pain Copywriting (or, Every Copywriting Formula Ever](https://copyhackers.com/2015/10/copywriting-formula/#PAS) by Joanna Wiebe
 [Coding Marketing: How We Coded Our Way to 100K Unique Visitors](http://blog.oribi.io/coding-marketing-how-we-coded-our-way-to-100k-unique-visitors/) by Iris Shoor
@@ -87,3 +143,11 @@ https://krausefx.com/blog/scaling-open-source-communities
 1. - ex https://medium.freecodecamp.org/how-to-start-an-open-source-project-in-new-years-945bad8800d7 
 ## Cool ideas for inspiration
 [Medium Gets Personal with Real-Time Video Responses on Twitter](https://wistia.com/learn/marketing/medium-twitter-video)by Meryl Ayres
+
+## Growth Podcast
+
+## Thank you
+Massive appreciation for who suggested pieces of content (or wrote something new) for this collection for startup hasslers:
+These collections can always get better, and I hope that they do. If you can think of anything that was missed, I welcome you to share it.
+To share your thoughts, improvements or additions: Email or Twitter.
+
