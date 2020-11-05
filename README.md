@@ -61,15 +61,74 @@ Competitive data tools:
 [SEMrush](https://www.semrush.com)
 [Alexa](http://www.alexa.com)
 
-## Content marketing - 
+## SEO & Content marketing - 
 ![](https://img.shields.io/badge/<>-Content_marketing-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<>-SEO-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+Why is it important?
+SEO and content marketing always go together. There’s no SEO without content. 
+
+Organic search is a critical part of the customer’s research process, especially for products with a long sales cycle. The higher you rank in the Google search results pages, the more traffic your site will get
+
+SEO is cost-effective and it also improves user experience, making it more likely for customers to become repeat buyers.
+
+> 51 percent of all website traffic comes from organic search! 
+
+* [60+ Mind-Blowing Search Engine Optimization Stats](https://www.searchenginejournal.com/seo-101/seo-statistics/#close) by Danny Goodwin - this article gives you some solid statistics that prove the true importance of SEO and why you can’t ignore it.
+* [The Compounding Effect of SEO
+](https://www.elischwartz.co/the-compounding-effect-of-seo/) by Eli Shwartz - why SEO is a good long-term investment for any business
+
+### What do you need to know about SEO?
+* [Why Is SEO a Long Term Process?](https://www.webenito.ie/why-is-seo-long-term-process/)by WEBENITO Digital Media - SEO is a long-term strategy and even with excellent tactics, it can still take months to see results. 
+* [White Hat vs. Black Hat vs. Gray Hat SEO: What’s the Difference?](https://www.searchenginejournal.com/white-hat-vs-black-hat-vs-gray-hat-seo/365142/) by Helen Pollitt - Don’t try to trick Google with some “quick hacks”, history shows that you’ll get penalized by Google sooner or later. Learn the difference between these approaches. 
+* [Top 7 Ranking Signals: What REALLY Matters in 2020](https://www.searchenginejournal.com/seo-guide/ranking-signals/)by Anna Crowe - SEO is nothing without valuable content to page speed and backlinks.  
+
+### Best practices
+In order to start driving leads from search engines, you’ll need to come up with a **strategic plan for your SEO**. 
+* [Ultimate Guide to the Ultimate Guides to B2B SEO [2021]](https://astronaut.marketing/blog/b2b-seo) by Annika Helendi - this article summarizes the best practices of all the top SEO strategy guides for 2020 and 2021. 
+* [How to Build a Growth-Focused Search Strategy for Every Stage of the Funnel](https://www.yesoptimist.com/saas-seo-strategy/)by Tyler Hakes - great tactical approach to SEO and content marketing strategy. 
+* [What makes you rank in Google](https://backlinko.com/search-engine-ranking)
+
+**Keyword research** is the cornerstone of your SEO efforts. 
+
+* [How to Do Keyword Research for SEO by Tim Soulo (Ahrefs)](https://ahrefs.com/blog/keyword-research/) - very specific step-by-step tutorial on how to do proper keyword research. 
+* [Keyword Research: The Definitive Guide (2020)](https://backlinko.com/on-page-seo) by Backlinko - another comprehensive keyword research guide with advanced tips and strategies
+* [10 Free Keyword Research Tools (That Aren’t Google Keyword Planner)](https://ahrefs.com/blog/free-keyword-research-tools/) by Josh Hardwick (Ahrefs) - use these free tools for keyword research if you don’t have the budget for the premium tools. 
+
+Optimize your website and existing content for the search engines based on your target keywords list:
+
+* [What are On-Page Ranking Factors for SEO?](https://moz.com/learn/seo/on-page-factors) By Moz - learn what elements of the page you need to optimize to get the best results.
+* [On-Page SEO: The Definitive Guide](https://backlinko.com/on-page-seo) by Backlinko - complete guide to optimizing your site for the search engines
+* [Technical SEO Checklist](https://www.semrush.com/blog/seo-checklist/#header19) by SEMrush - make sure that on the technical side your site is set up in a Google-friendly way.
+
+Create new content that could start ranking in Google and bring in **new organic search traffic**. 
+* [Growing B2B SaaS with SEO and Content Marketing [2021]](https://astronaut.marketing/blog/b2b-saas-growth#seo-content-marketing) by Annika Helendi - learn the best practices of SEO-focused content marketing for B2B SaaS startups
+* [The 10 Types of Content That Work Best for SEO](https://moz.com/blog/the-ten-types-of-content-that-work-best-for-seo-whiteboard-friday) by Rand Fishkin - it’s not only about blog posts, there are also other types of content that work well for SEO
+* [17 Blogging Tips For Beginners (That Actually Work)](https://ahrefs.com/blog/blogging-tips/) by Si Quan Ong (Ahrefs) - if you’re out of ideas or need some extra motivation, these tactical tips will get you going.
+* [Developer Marketing Guide Part 4](https://catchyagency.com/developer-marketing-guide/developer-content/) by Catchy - specific content marketing tactics that seem to work well if you are targeting developers. 
+* [10x content strategy is simple but powerful](https://moz.com/blog/how-to-create-10x-content) 
+
+Getting **quality backlinks** is very important for SEO
+
+* [The Good, the Bad, & the Ugly of Link Building](https://moz.com/beginners-guide-to-link-building/good-bad-ugly) by Moz - understand the risks and rewards of black-hat and white-hat link building strategies
+* [9 EASY Link Building Strategies (That ANYONE Can Use)](https://ahrefs.com/blog/link-building-strategies/) by Josh Hardwick - get started with some easier link building tactics. 
+
+### Tools
+Free tools
+* [Google Search Console](https://search.google.com/search-console/welcome) - the best place to see what exact keywords and content pieces are getting impressions and clicks on Google search results. 
+* [Ubersuggest](https://neilpatel.com/ubersuggest/) - free keyword research tool that helps you see related keywords, their search volumes and competition. 
+* [Answerthepublic](https://answerthepublic.com/) - discover what people are Googling and get ideas for your content calendar.
+* [HARO](https://www.helpareporter.com/) - sign up for the daily email newsletter and start pitching yourself as a source to different publications in order to build high-quality backlinks. 
+
+Premium tools
+* [Ahrefs](https://ahrefs.com/) - very reliable and comprehensive SEO tool with lots of features. Best option if your focus is more on the link building aspect of SEO.
+* [SEMrush](https://www.semrush.com) - top SEO tool with lots of features. Best option if your focus is more on the content creation aspect of SEO. 
 
 
-> What is content marketing and why you need it. Where to start and what are the key steps to follow
 
 * FROM 0 to 64K monthly blog visitors (and counting) in 20 months - how we did it by Marie Jaksman. A real life case study of hacks and growth tactics used to build website traffic and our biggest failures that did not work for them. 
 * [The Ultimate Guide to No-Pain Copywriting (or, Every Copywriting Formula Ever](https://copyhackers.com/2015/10/copywriting-formula/#PAS) by Joanna Wiebe
-* [Coding Marketing: How We Coded Our Way to 100K Unique Visitors](http://blog.oribi.io/coding-marketing-how-we-coded-our-way-to-100k-unique-visitors/) by Iris Shoor
+
 
 🛠 Useful tools
 * Make sure your content is grammarly correct! For that you can use browser extensions, like Grammarly.
