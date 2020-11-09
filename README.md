@@ -58,25 +58,23 @@ How to create compelling value proposition that resonates with your buyer person
 * [How to Craft (Or Pivot) Your Agency Value Proposition](https://cxl.com/blog/agency-value-proposition/). Tom Whatley will show you the journey they took to finding our place in the market by testing, pivoting, and re-pivoting our serving offerings and value propositions so you can grow your agency faster, without fewer wrong turns.
 
 
-🛠 Useful tools
+## 🛠 Useful tools
 
-Online surveys for feedback: 
+**Online surveys for feedback:**
 * [Google Forms](https://www.google.com/forms/about/) for making online surveys
 * [Typeform](https://www.typeform.com) beatiful way to draft compelling online surveys
 PS! We experienced 40% better responce rate after adding "receive gift card in-exchange for the feedback" 
 
-Testing: 
-* Google Analytics]() for overall stats
-* OptimizeIt, 
-* [Visual Website Optimizer](https://vwo.com) for A/B testing
-* [Google Optimize](https://optimize.google.com/)
+**user statistics**
+* Google Analytics](https://analytics.google.com) web analytics service to track and report website traffic.
+* [Visual Website Optimizer](https://vwo.com) for A/B testing.
+* [Google Optimize](https://optimize.google.com/) free website optimization for testing website content.ampl
+* [Amplitude](https://amplitude.com) for product stats to understand your users.  
+* [Metabase](https://www.metabase.com)for marketing stats. 
+* [Grafana](grafana.com) for custom dashboards
+* [Smartlook](https://www.smartlook.com) for user journey recordings.
+* [Hotjar](https://www.hotjar.com) for heatmaps and behavior analytics.
 
-* [Google Analytics]() 
-* [Amplitude](https://amplitude.com) for product stats 
-* [Metabase](https://www.metabase.com)for marketing stats
-* [Smartlook](https://www.smartlook.com) for user journey recordings
-* [Hotjar](https://www.hotjar.com) for heatmaps and behavior analytics
-* [Grafana]() for custom dashboards
 
 
 Competitive data tools: 
