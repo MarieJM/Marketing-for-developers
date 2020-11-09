@@ -65,7 +65,7 @@ How to create compelling value proposition that resonates with your buyer person
 * [Typeform](https://www.typeform.com) beatiful way to draft compelling online surveys
 PS! We experienced 40% better responce rate after adding "receive gift card in-exchange for the feedback" 
 
-**user statistics**
+**User statistics**
 * Google Analytics](https://analytics.google.com) web analytics service to track and report website traffic.
 * [Visual Website Optimizer](https://vwo.com) for A/B testing.
 * [Google Optimize](https://optimize.google.com/) free website optimization for testing website content.ampl
@@ -77,9 +77,9 @@ PS! We experienced 40% better responce rate after adding "receive gift card in-e
 
 
 
-Competitive data tools: 
-[SEMrush](https://www.semrush.com)
-[Alexa](http://www.alexa.com)
+**Competitive data tools:**
+* [SEMrush](https://www.semrush.com)
+* [Alexa](http://www.alexa.com)
 
 
 
@@ -156,8 +156,7 @@ Premium tools
 * [The Ultimate Guide to No-Pain Copywriting (or, Every Copywriting Formula Ever](https://copyhackers.com/2015/10/copywriting-formula/#PAS) by Joanna Wiebe
 
 
-
-### Storytelling
+**Storytelling**:
 
 * (https://www.skyword.com/contentstandard/storytelling/10-types-of-narrative-conflict-you-can-use-in-content-creation/)
 
@@ -173,7 +172,7 @@ Premium tools
 * [How to Launch on Product Hunt](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399) by Product Hunt team
 * [Master Checklist for Launching on Product Hunt (spreadsheet) by SpreadShare team](https://docs.google.com/spreadsheets/d/1ebg2HyS5P-WkznG5Tvr7mYtKZqXsDLXARtYWpxfkieo/edit#gid=0)
 
-## Useful tools
+### Useful tools
 *
 *
 *
@@ -195,12 +194,13 @@ copy
 ![](https://img.shields.io/badge/<>-Social_media_marketing-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 > What is social media marketing and why you need it? 
+
 * [How to Find and Target Your Social Media Audience (Free Template)](https://blog.hootsuite.com/target-market/) by Hootsuite. Identify and understand your niche to dominate the indusrty.
 * [How to Conduct a Social Media Competitive Analysis (Free Template)](https://blog.hootsuite.com/competitive-analysis-on-social-media/) by Hootsuite. How to stay ahead of the competition and win?
 * [How I Manage a Social Media Platform of Over 11 Million Followers Every Day](https://buffer.com/resources/scale-social-media-growth-strategies/)
 * http://www.jeffbullas.com/2016/08/11/5-powerful-social-media-hacks-ramp-digital-strategy/ 
 
-## Useful tools
+### Useful tools
 * [11 Free Services for Scheduling Social Media Updates](https://mashable.com/2010/08/02/schedule-social-media-updates-free/?europe=true#72JJg9QhO5) by Mashable 
 * [9 Social Media Templates to Save You Hours of Work](https://blog.hootsuite.com/social-media-templates/) by Hootsuite. Useful templates from planning and creating content, to publishing posts and measuring results.
 [Ritetag](https://ritetag.com) Find relevant hastags
@@ -208,10 +208,8 @@ copy
 * [Buzzsumo]
 * Unsplash
 * Pablo allows you to customize pictures with simple edits and quotes
-* Grammarly is another great tool that plugs into your browser. It checks your grammar as well as your spelling and offers helpful suggestions about sentence structure.
-
-6. Sprout Social lets you schedule content for multiple days, this is great for marketing your own content.
-7. Remember your bitly link! No one wants to see a big long link that trails off, it looks a bit spammy whereas bitly links saves you time and most importantly character space!
+* [Grammarly] checks your grammar as well as your spelling
+* [bitly] link! Bitly links saves you time and most importantly character space!
 
 
 ### Facebook Marketing
@@ -261,8 +259,6 @@ copy
 
 ## Website optimization & A/B testing
 * [17 Website and UX Design Statistics That Make the Case for Smarter Web Design](https://blog.hubspot.com/marketing/compelling-stats-website-design-optimization-list) by Erik Devaney
-
-
 
 
 ## Going open source
