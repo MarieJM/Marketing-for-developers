@@ -47,15 +47,16 @@ Buyer personas is a detailed representation of your ideal client based on market
 * [What Does a Great Buyer Persona Look Like? Dissecting 3 Real-Life Examples](https://blog.hubspot.com/marketing/buyer-persona-examples) by Lisa Toner.
 * [The Ultimate Guide to Developing Buyer Personas (with Templates!)](https://www.singlegrain.com/buyer-personas/complete-guide-developing-using-buyer-personas/) by Elise Dopson.
 * [The Mom test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](http://manuelohan.com/wp-content/uploads/2017/05/The-Mom-Test-en.pdf) by Rob Fitzpatric. How to ask the "right" questions to ascertain whether there is real customer pain or not. 
-* [Using PMFSurvey.com (formerly Survey.io](https://www.startup-marketing.com/using-survey-io/) Net Promoter Score (NPS) is a simple survey, asking customers to rate from 1–10, “How likely are you to recommend xxx to a friend or colleague?” A nice way to understand weather your your product is good enough to drive sustainable, scalable customer growth or not!
+* [Using PMFSurvey.com (formerly Survey.io)](https://www.startup-marketing.com/using-survey-io/) Net Promoter Score (NPS) is a simple survey, asking customers to rate from 1–10, “How likely are you to recommend xxx to a friend or colleague?” A nice way to understand weather your your product is good enough to drive sustainable, scalable customer growth or not!
 
 >> The Saddest thing that can happen to a startup is for nobody to care when it disappears - Rob Fitzpatrick
 
-## Value proposition
+## Create messages that convert  
 How to create compelling value proposition that resonates with your buyer personas? 
 
 * [How to Run A/B Tests that Actually Increase Conversions](https://www.singlegrain.com/blog-posts/conversions/how-to-run-ab-tests-that-actually-increase-conversions/) by Eric Siu. Data speaks for itself. How to A/B test anything, including copy, images, messaging, videos, etc and increase conversions. 
 * [How to Craft (Or Pivot) Your Agency Value Proposition](https://cxl.com/blog/agency-value-proposition/). Tom Whatley will show you the journey they took to finding our place in the market by testing, pivoting, and re-pivoting our serving offerings and value propositions so you can grow your agency faster, without fewer wrong turns.
+* [The Ultimate Guide to No-Pain Copywriting (or, Every Copywriting Formula Ever](https://copyhackers.com/2015/10/copywriting-formula/#PAS) by Joanna Wiebe
 
 
 ## 🛠 Useful tools
@@ -63,10 +64,10 @@ How to create compelling value proposition that resonates with your buyer person
 **Online surveys for feedback:**
 * [Google Forms](https://www.google.com/forms/about/) for making online surveys
 * [Typeform](https://www.typeform.com) beatiful way to draft compelling online surveys
-PS! We experienced 40% better responce rate after adding "receive gift card in-exchange for the feedback" 
+> PS! We experienced 40% better responce rate after adding "receive gift card in-exchange for the feedback" 
 
 **User statistics**
-* Google Analytics](https://analytics.google.com) web analytics service to track and report website traffic.
+* [Google Analytics](https://analytics.google.com) web analytics service to track and report website traffic.
 * [Visual Website Optimizer](https://vwo.com) for A/B testing.
 * [Google Optimize](https://optimize.google.com/) free website optimization for testing website content.ampl
 * [Amplitude](https://amplitude.com) for product stats to understand your users.  
@@ -76,16 +77,17 @@ PS! We experienced 40% better responce rate after adding "receive gift card in-e
 * [Hotjar](https://www.hotjar.com) for heatmaps and behavior analytics.
 
 
-
 **Competitive data tools:**
 * [SEMrush](https://www.semrush.com)
 * [Alexa](http://www.alexa.com)
 
 
 
-## SEO & Content marketing - 
+## SEO & Content marketing
 ![](https://img.shields.io/badge/<>-Content_marketing-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<>-SEO-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<>-Organic_traffic-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<>-Backlinks-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 Why is it important?
 SEO and content marketing always go together. There’s no SEO without content. 
@@ -151,17 +153,6 @@ Premium tools
 * [SEMrush](https://www.semrush.com) - top SEO tool with lots of features. Best option if your focus is more on the content creation aspect of SEO. 
 
 
-
-* FROM 0 to 64K monthly blog visitors (and counting) in 20 months - how we did it by Marie Jaksman. A real life case study of hacks and growth tactics used to build website traffic and our biggest failures that did not work for them. 
-* [The Ultimate Guide to No-Pain Copywriting (or, Every Copywriting Formula Ever](https://copyhackers.com/2015/10/copywriting-formula/#PAS) by Joanna Wiebe
-
-
-**Storytelling**:
-
-* (https://www.skyword.com/contentstandard/storytelling/10-types-of-narrative-conflict-you-can-use-in-content-creation/)
-
-
-
 ## Launhing your app
 
 * [30 Steps to Mobile App Launch](https://www.apptentive.com/blog/2016/05/17/30-steps-to-mobile-app-launch/) by Alex Walz
@@ -189,6 +180,11 @@ Premium tools
 * [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić
 * [The 10 Best Email Marketing Campaigns](https://www.soundest.com/blog/best-email-marketing-campaigns/?utm_source=growthhackers&utm_medium=referral&utm_campaign=gh_best_email&utm_campaign=Submission&utm_medium=Community&utm_source=GrowthHackers.com) by omnisend
 copy
+
+### Useful tools
+* 
+* 
+*
 
 ## Social Media Marketing
 ![](https://img.shields.io/badge/<>-Social_media_marketing-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
