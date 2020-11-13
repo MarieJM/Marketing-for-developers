@@ -174,12 +174,15 @@ Premium tools
 ![](https://img.shields.io/badge/<>-Email_marketing-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 > What is email marketing and why you need it? 
-
+* [A crash course on B2B email marketing](https://outfunnel.com/b2b-email-marketing-course) by Outfunnel team. Over 10 emails you will learn how to create irrestistible emails!  
+* Email Marketing - definite guide https://backlinko.com/email-marketing-guide 
 * [The Big Email Marketing Teardown: Learning From The Very Best](https://outfunnel.com/the-big-email-marketing-teardown/?utm_source=linkedin&utm_medium=social&utm_campaign=Andrus) by Andrus Purde
 * [Could these 3 little-known conversion triggers jack up sales in your email campaign?](https://copyhackers.com/2017/08/conversion-triggers-email-campaign/)by Ry Schwartz and Joanna Wiebe
+* [14 Ways to Improve Deliverability](https://outfunnel.com/email-deliverability/)
 * [10 cold email tips I used to get 60,000 signups](https://medium.com/marketing-and-entrepreneurship/10-cold-email-tips-i-used-to-get-60-000-app-signups-dd928d86ca21) by Dunja Lazić
 * [The 10 Best Email Marketing Campaigns](https://www.soundest.com/blog/best-email-marketing-campaigns/?utm_source=growthhackers&utm_medium=referral&utm_campaign=gh_best_email&utm_campaign=Submission&utm_medium=Community&utm_source=GrowthHackers.com) by omnisend
 copy
+* [NEWSLETTER][Turn digital traffic into tangible revenue](https://sendfox.com/steven) by Steven MacDonald
 
 ### Useful tools
 * 
