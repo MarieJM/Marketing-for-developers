@@ -202,6 +202,7 @@ copy
 ### Useful tools
 * [11 Free Services for Scheduling Social Media Updates](https://mashable.com/2010/08/02/schedule-social-media-updates-free/?europe=true#72JJg9QhO5) by Mashable 
 * [9 Social Media Templates to Save You Hours of Work](https://blog.hootsuite.com/social-media-templates/) by Hootsuite. Useful templates from planning and creating content, to publishing posts and measuring results.
+* [30-day content planner (Slovak XLSX)](https://kupitsledovatelov.sk/resources/sk/content-planner.xlsx) - Free editable worksheet for topics, formats, messages and evaluation, with a labelled model example. By KupitSledovatelov.sk.
 [Ritetag](https://ritetag.com) Find relevant hastags
 * [Followerwonk](https://followerwonk.com)  - Find data for your Twitter users
 * [Buzzsumo]
